@@ -1,6 +1,14 @@
+# Campo minado (App)
 
-## Campo Minado :coffee:
+## Descrição
 
-### Campo Minado com JUnit 
-<p align="left">
-Jogo "Campo Minado" realizado via termina, utilizado com java implementado com testes unitários e JUNIT5
+Jogo via terminal, o famoso campo minado. Ele possui as funcionalidades do famoso jogo, sendo um bom passatempo
+
+Exemplo:
+
+## Tecnologias Utilizadas
+
+As tecnologias deste projeto, são:
+
+- *Java* (versão 21)
+- *JUNIT* 
