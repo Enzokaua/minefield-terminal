@@ -55,7 +55,7 @@ O projeto foi desenvolvido com foco em boas práticas de programação, como:
 
 1. **Clone o repositório**:
  ```bash
- git clone https://github.com/seu-usuario/campo-minado-terminal.git
+ git clone https://github.com/enzokaua/minefield-terminal.git
  cd campo-minado-terminal
 ```
 2. **Compile e execute o jogo**
